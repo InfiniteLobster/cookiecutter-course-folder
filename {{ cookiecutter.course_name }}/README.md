@@ -2,6 +2,10 @@
 
 {{ cookiecutter.description }}
 
+## Coookiecutter info
+
+This structure was created by this [cookiecutter template](https://github.com/InfiniteLobster/cookiecutter-course-folder)
+
 ## Installation
 
 ```bash
