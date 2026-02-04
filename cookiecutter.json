@@ -1,9 +1,6 @@
 {
-    "repo_name": "Random name of repo",
-    "project_name": "Random name of the project",
-    "is_package": ["no", "yes"],
+    "course_name": "Course 101",
+    "first_class_name": "Class 1",
     "author_name": "Your Name",
-    "description": "A short description of the repository",
-    "matlab_version": "25a",
-    "version": "0.1.0"
+    "description": "This is course 101",
 }
