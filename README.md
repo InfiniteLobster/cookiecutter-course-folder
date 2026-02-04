@@ -1,17 +1,17 @@
-# cookiecutter-matlab-project
+# cookiecutter-course-folder
 
-This is my base cookiecutter template for matlab projects. It provides structure for project with utility and reproductibility in mind. 
+This is my base cookiecutter template for university courses folder. It provides structure for project with utility and reproductibility in mind. 
 
 ## Repository download
 
 ```bash
-git clone https://github.com/InfiniteLobster/cookiecutter-matlab-project
+git clone https://github.com/InfiniteLobster/cookiecutter-course-folder
 ```
 
 ## Template usage
 
 ```bash
-cookiecutter https://github.com/InfiniteLobster/cookiecutter-matlab-project
+cookiecutter https://github.com/InfiniteLobster/cookiecutter-course-folder
 ```
 
 ## Requirements
@@ -24,4 +24,4 @@ cookiecutter https://github.com/InfiniteLobster/cookiecutter-matlab-project
 
 ## Version
 
-{{ 1.1.0 }} (Created: 26.01.2026)
+1.1.0  (Created: 04.02.2026)
