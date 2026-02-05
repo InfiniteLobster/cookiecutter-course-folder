@@ -7,5 +7,4 @@
 *.mexw64 #Windows
 *.mexa64 # Linux 
 #ignoring data folders
-/assignments/
-/materials/
+{{ "/assignments/\n/materials/" }}
